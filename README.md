@@ -1,3 +1,5 @@
+Download and run the setup of the NativeCenter executable.
+
 The first instance of this program must be run with Administrator privileges to initialize the settings.
 
 Configure the server IP addresses accordingly to connect to the Enterprisa or Cademia systems. Remember to
